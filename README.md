@@ -76,8 +76,6 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yatishb23&theme=nightowl&hide_border=true&background=0D1117&stroke=7E3ACE&ring=7E3ACE&fire=DD7230)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatishb23&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=7E3ACE)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
