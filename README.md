@@ -1,15 +1,11 @@
 <h1 align="center">🚀 Hi 👋, I'm Yatish</h1>
 <h3 align="center">A passionate fullstack developer and competitive programmer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Building+MyPOV+Map+%7C+Next.js+Enthusiast;Turning+algorithms+into+solutions+since+2018;Open-source+contributor+%26+tech+learner" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
   
 [![Visits Badge](https://komarev.com/ghpvc/?username=yatishb23&label=Profile%20Views&color=7E3ACE&style=flat-square)](https://github.com/yatishb23)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yatishb23)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatishb23)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yatish_23)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatish-badgujar)
 
 </div>
 
@@ -91,13 +87,13 @@
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yatishb23">
+  <a href="https://linkedin.com/in/yatish-badgujar">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/yatishb23">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yatishb23">
+  <a href="https://leetcode.com/yatish_23">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/yatishb23">
